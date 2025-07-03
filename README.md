@@ -1,1 +1,1 @@
-#Assignments and projects from The Odin Projects
+# Assignments and projects from The Odin Project
